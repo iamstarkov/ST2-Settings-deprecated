@@ -1,0 +1,37 @@
+{
+	"auto_upgrade_last_run": 1338790299,
+	"installed_packages":
+	[
+		"Alignment",
+		"alternative_autocompletion",
+		"BeautifyRuby",
+		"Camaleon",
+		"Change Tracker",
+		"ColorPicker",
+		"CSScomb",
+		"DocBlockr",
+		"Dogs Colour Scheme",
+		"EncodingHelper",
+		"FileDiffs",
+		"Format SQL",
+		"Goto-CSS-Declaration",
+		"HTML5",
+		"Inc-Dec-Value",
+		"IndentGuides",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Live CSS",
+		"Open-Include",
+		"Package Control",
+		"Prefixr",
+		"Prevu",
+		"SideBarEnhancements",
+		"sublime-csspecific",
+		"SublimeTODO",
+		"Tag",
+		"Whitespace Corrector",
+		"WordHighlight",
+		"zenburn",
+		"ZenCoding"
+	]
+}

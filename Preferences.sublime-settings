@@ -1,0 +1,67 @@
+{
+	"auto_indent": true,
+	"auto_match_enabled": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"default_line_ending": "unix",
+	"detect_indentation": true,
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"draw_centered": true,
+	"draw_indent_guides": true,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": false,
+	"fade_fold_buttons": false,
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"find_selected_text": true,
+	"fold_buttons": true,
+	"font_face": "Lucida Console",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11.0,
+	"gutter": true,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active",
+		"draw_stack",
+		"normal_stippled",
+		"stack_stippled",
+		"active_stippled"
+	],
+	"indent_subsequent_lines": true,
+	"jsdocs_spacer_between_sections": true,
+	"line_numbers": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"match_brackets": true,
+	"match_brackets_angle": false,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"shift_tab_unindent": false,
+	"spell_check": false,
+	"tab_completion": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": false,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": false,
+	"use_tab_stops": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": false
+}
