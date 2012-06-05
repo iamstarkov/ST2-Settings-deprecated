@@ -9,7 +9,7 @@
 	"draw_centered": true,
 	"draw_indent_guides": true,
 	"draw_minimap_border": true,
-	"draw_white_space": "all",
+	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": false,
 	"fade_fold_buttons": false,
 	"fallback_encoding": "Cyrillic (Windows 1251)",
@@ -22,7 +22,7 @@
 	],
 	"font_size": 11.0,
 	"gutter": true,
-	"highlight_line": true,
+	"highlight_line": false,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
@@ -31,11 +31,7 @@
 	"indent_guide_options":
 	[
 		"draw_normal",
-		"draw_active",
-		"draw_stack",
-		"normal_stippled",
-		"stack_stippled",
-		"active_stippled"
+		"draw_active"
 	],
 	"indent_subsequent_lines": true,
 	"jsdocs_spacer_between_sections": true,
@@ -50,7 +46,7 @@
 	"match_tags": true,
 	"rulers":
 	[
-		80
+		100
 	],
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
