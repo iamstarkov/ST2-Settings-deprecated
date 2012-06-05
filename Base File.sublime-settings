@@ -2,7 +2,7 @@
 	"auto_indent": true,
 	"auto_match_enabled": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": true,
 	"dictionary": "Packages/Language - English/en_US.dic",
@@ -45,8 +45,9 @@
 	"match_tags": true,
 	"rulers":
 	[
+		100
 	],
-	"save_on_focus_lost": false,
+	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"shift_tab_unindent": false,
 	"spell_check": false,

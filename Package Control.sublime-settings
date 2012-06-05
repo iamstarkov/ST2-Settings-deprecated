@@ -5,6 +5,7 @@
 		"Alignment",
 		"alternative_autocompletion",
 		"BeautifyRuby",
+		"BracketHighlighter",
 		"Camaleon",
 		"Change Tracker",
 		"ColorPicker",
@@ -29,9 +30,9 @@
 		"sublime-csspecific",
 		"SublimeTODO",
 		"Tag",
+		"Theme - Soda",
 		"Whitespace Corrector",
 		"WordHighlight",
-		"zenburn",
 		"ZenCoding"
 	]
 }
