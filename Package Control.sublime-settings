@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1338876978,
+	"auto_upgrade_last_run": 1338957404,
 	"installed_packages":
 	[
 		"Alignment",
@@ -33,6 +33,7 @@
 		"Theme - Soda",
 		"Whitespace Corrector",
 		"WordHighlight",
+		"zenburn",
 		"ZenCoding"
 	]
 }
