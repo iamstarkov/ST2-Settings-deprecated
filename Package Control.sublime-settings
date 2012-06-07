@@ -2,19 +2,12 @@
 	"auto_upgrade_last_run": 1338957404,
 	"installed_packages":
 	[
-		"Alignment",
 		"alternative_autocompletion",
-		"BeautifyRuby",
 		"BracketHighlighter",
-		"Camaleon",
-		"Change Tracker",
 		"ColorPicker",
-		"CSScomb",
 		"DocBlockr",
-		"Dogs Colour Scheme",
 		"EncodingHelper",
 		"FileDiffs",
-		"Format SQL",
 		"Goto-CSS-Declaration",
 		"HTML5",
 		"Inc-Dec-Value",
@@ -25,7 +18,6 @@
 		"Open-Include",
 		"Package Control",
 		"Prefixr",
-		"Prevu",
 		"SideBarEnhancements",
 		"sublime-csspecific",
 		"SublimeTODO",
@@ -33,7 +25,6 @@
 		"Theme - Soda",
 		"Whitespace Corrector",
 		"WordHighlight",
-		"zenburn",
 		"ZenCoding"
 	]
 }
